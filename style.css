@@ -16,7 +16,7 @@
    
     text-align: center;
     background-color: whitesmoke;
-    width: 45%;
+    width: 65%;
 }
 #monitor{
     position: fixed;
@@ -27,6 +27,11 @@
     position: fixed;
     top: 19%;
     
+}
+#img{
+    position: fixed;
+    width: 15%;
+    top: 2%;
 }
 #konsentrasi{
     font-size: 300%;

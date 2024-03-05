@@ -1,0 +1,33 @@
+*, html, body{
+    margin: 0;
+    padding: 0;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: blanchedalmond;
+}
+.monitor{
+
+   
+    text-align: center;
+    background-color: whitesmoke;
+    width: 20%;
+}
+#monitor{
+    position: fixed;
+    top: 30%;
+}
+#judul{
+    position: fixed;
+    top: 3%;
+    
+}
+#konsentrasi{
+    font-size: 300%;
+    
+}
